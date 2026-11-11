@@ -1,0 +1,9 @@
+{
+  "key": "APOLLO-UNSIGNED-0000-0000-0000-0000-0000",
+  "verifiedUtc": "2026-11-10T00:00:00.0000000Z",
+  "expiryUtc": "2099-12-31T23:59:59.0000000Z",
+  "deadMessage": "",
+  "lastSeenUtc": "2026-11-10T00:00:00.0000000Z",
+  "offlineLaunches": 0,
+  "outdatedMsg": ""
+}
